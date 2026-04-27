@@ -1,0 +1,15 @@
+[project]
+name = "llmevaluation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=4.8.4",
+    "fastapi>=0.136.1",
+    "prometheus-client>=0.25.0",
+    "python-json-logger>=4.1.0",
+    "ragas>=0.4.3",
+    "requests>=2.33.1",
+    "uvicorn>=0.46.0",
+]

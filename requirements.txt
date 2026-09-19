@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-requests
-ragas
-datasets
-prometheus-client
-python-json-logger

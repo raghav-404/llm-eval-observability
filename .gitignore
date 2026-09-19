@@ -1,16 +1,12 @@
-# Python-generated files
+.env
+LEARNING.md
+data/*.db
 __pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/
+promptfoo-output/
 *.py[oc]
 build/
 dist/
-wheels/
-*.egg-info
-
-# Virtual environments
-.venv
-
-# md
-learn.md
-
-# env
-.env
+*.egg-info/

@@ -71,8 +71,6 @@ README.md
 LICENSE
 ```
 
-`LEARNING.md` is a private, ignored local study guide and is intentionally absent from the public structure.
-
 ## Local setup
 
 ```bash
